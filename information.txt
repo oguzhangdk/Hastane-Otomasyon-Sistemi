@@ -1,0 +1,7 @@
+BAŞHEKİM SEKMESİ İLE ADMİN OLARAK GİRMEK İÇİN
+
+Kullanıcı Adı: admin
+Şifre : 123456
+
+Admin olarak girdiğimizde tüm hastaların, doktorların ve personellerin verileri görünüyor.
+Her doktor ,hasta ve personel kendi tc'si ve şifresi ile sisteme giriş yapabiliyor.
